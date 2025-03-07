@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <h1>ABOUT ME</h1>
 </p>
 <hr class="style-two">
@@ -10,7 +10,7 @@ hr.style-two {
     border: 0;
     height: 1px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
-}</style>
+}</style> -->
 <!--
 **Hyunmaa/Hyunmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
