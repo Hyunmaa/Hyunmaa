@@ -1,3 +1,7 @@
+<p align = "center">
+ABOUT ME
+</p>
+
 ### Achievements ✨
 
 <!--
@@ -15,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is the badges i got from Holopin for contributing on Hacktoberfest 2022 ~
-
+Hacktoberfest 2022 Badges
 [![@hyunmaa's Holopin board](https://holopin.me/hyunmaa)](https://holopin.io/@hyunmaa)
+
