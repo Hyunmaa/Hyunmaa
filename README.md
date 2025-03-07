@@ -1,5 +1,5 @@
 <p align = "center">
-  <b> ABOUT ME </b>
+  <h1> ABOUT ME </h1>
 </p>
 
 ## HACKTOBERFEST 2022 BADGES
