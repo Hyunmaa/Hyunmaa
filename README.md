@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![@hyunmaa's Holopin board](https://holopin.me/hyunmaa)](https://holopin.io/@hyunmaa)
 <hr>
 ### ✨ <b> HackTheBox Badges </b>
-<script src="https://academy.hackthebox.com/achievement/badge/4f6565bf-ecee-11ef-864f-bea50ffe6cb4"></script>
+<img src="https://academy.hackthebox.com/achievement/badge/4f6565bf-ecee-11ef-864f-bea50ffe6cb4">
