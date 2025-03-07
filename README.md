@@ -1,8 +1,6 @@
 <p align = "center">
-ABOUT ME
+<h1> ABOUT ME </h1>
 </p>
-
-### Achievements ✨
 
 <!--
 **Hyunmaa/Hyunmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hacktoberfest 2022 Badges
+### ✨ <b> Hacktoberfest 2022 Badges </b>
 [![@hyunmaa's Holopin board](https://holopin.me/hyunmaa)](https://holopin.io/@hyunmaa)
-
+<hr>
+### ✨ <b> HackTheBox Badges </b>
+<script src="https://academy.hackthebox.com/achievement/badge/4f6565bf-ecee-11ef-864f-bea50ffe6cb4"></script>
