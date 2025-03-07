@@ -1,5 +1,5 @@
 <p align = "center">
-<h1> ABOUT ME </h1>
+  <h1> ABOUT ME </h1>
 </p>
 
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### ✨ <b> Hacktoberfest 2022 Badges </b>
-[![@hyunmaa's Holopin board](https://holopin.me/hyunmaa)](https://holopin.io/@hyunmaa)
+[![An image of @hyunmaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hyunmaa)](https://holopin.io/@hyunmaa)
 <hr>
 ### ✨ <b> HackTheBox Badges </b>
 <img src="https://academy.hackthebox.com/achievement/badge/4f6565bf-ecee-11ef-864f-bea50ffe6cb4">
